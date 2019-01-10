@@ -1,0 +1,13 @@
+{
+  "name": "grokking_algorithms",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "go test -v && tap *.js"
+  },
+  "devDependencies": {
+    "prettier": "^1.15.3",
+    "tap": "^12.1.1"
+  }
+}
