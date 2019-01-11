@@ -17,10 +17,6 @@ function binarySearch(list, item) {
     } else {
       low = mid + 1;
     }
-
-    console.log(`
-        
-    `);
   }
 
   return null;
